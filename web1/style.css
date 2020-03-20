@@ -1,0 +1,147 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body{
+  background-color: #C0C0C0;
+  color: #808080;
+  padding: 30px;
+}
+
+/* ヘッダーここから */
+
+header h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+header p{
+  text-align: center;
+  font-size:300%;
+}
+
+/* sanserifここから */
+
+#sanserif{
+  margin: 20px;
+  font-family: sans-serif;
+  background-color: #EEEEEE;
+}
+
+#sanserif p{
+  font-weight: bold;
+  margin: 10px;
+}
+
+#sanserif h2{
+  
+  margin: 10px;
+}
+
+#sanserif code{
+  width:100%;
+  margin: 10px;
+  background-color: #C0C0C0;
+}
+
+/* serifここから */
+
+#serif{
+  font-family: serif;
+  margin: 20px;
+  background-color: #EEEEEE;
+}
+
+#serif p{
+  font-weight: bold;
+  margin: 10px;
+}
+
+#serif h2{
+  
+  margin: 10px;
+}
+
+#serif code{
+  width:100%;
+  margin: 10px;
+  background-color: #C0C0C0;
+}
+
+/* meiryoここから */
+
+#meiryo{
+  font-family: "Meiryo";
+  margin: 20px;
+  background-color: #EEEEEE;
+}
+#meiryo p{
+  font-weight: bold;
+  margin: 10px;
+}
+
+#meiryo h2{
+  
+  margin: 10px;
+}
+
+#meiryo code{
+  width:100%;
+  margin: 10px;
+  background-color: #C0C0C0;
+}
+
+/* comicここから */
+
+#comic{
+  font-family: "Comic Sans MS";
+  margin: 20px;
+  background-color: #EEEEEE;
+}
+
+#comic p{
+  font-weight: bold;
+  margin: 10px;
+}
+
+#comic h2{
+  
+  margin: 10px;
+}
+
+#comic code{
+  width:100%;
+  margin: 10px;
+  background-color: #C0C0C0;
+}
+
+/* hiraginoここから */
+
+#hiragino{
+  font-family: "Hiragino Kaku Gothic ProN";
+  margin: 20px;
+  background-color: #EEEEEE;
+}
+
+#hiragino p{
+  font-weight: bold;
+  margin: 10px;
+}
+
+#hiragino h2{
+  
+  margin: 10px;
+}
+
+#hiragino code{
+
+  height: 100%;
+  margin: 10px;
+  background-color: #C0C0C0;
+}
+
+div h2{
+  text-decoration: underline solid #C0C0C0;
+  margin-top: 10px;
+}
