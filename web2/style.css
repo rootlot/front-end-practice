@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body{
+  background-color: aliceblue;
+  text-align: center;
+}
+
+ h1{
+  font-family: 'Lobster', cursive;
+  color:#999999 ;
+}
+
+div.text{
+  font-style: italic;
+  font-size: 15px;
+}
+
+div.news{
+  background-color: white;
+  border: #999999;
+  width: 50%;
+  margin: 0 auto;
+  font-style: italic;
+}
+
+div.news h2{
+  text-decoration: underline;
+}
+
+p span.date{
+  font-weight: lighter;
+}
+
+div.news p a{
+  text-decoration: none;
+  color: #FF6666;
+}
+
+footer{
+  margin-top: 50px;
+  font-size: 15px;
+}
