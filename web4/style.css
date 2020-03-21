@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+*{
+  margin: 0; padding: 0;
+}
+
+body{
+  background-color:#EEEEEE;
+  margin: 0 15%;
+  color: #770000;
+}
+
+h1{
+  text-align: center;
+  background-color: #770000;
+  border-radius: 0 0 10px 10px;
+  color: white;
+  font-family: 'Shadows Into Light', cursive;
+  padding: 5px 0;
+  height: auto;
+}
+
+h2{
+  font-family: 'Shadows Into Light', cursive;
+  border-left: 5px solid #770000;
+  padding-left: 10px;
+  margin-top: 25px;
+  font-size: 30px;
+  height: auto;
+}
+
+p#text{
+  margin-top: 5px;
+  font-size: 10px;
+  font-weight: lighter;
+  color: #220000;
+}
+
+div.menu{
+  border-bottom: 2px dashed #DDDDDD;
+}
+
+div.menu h3{
+  border-bottom: 1px solid #770000;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+div.menu p{
+  margin-bottom: 20px;
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: lighter;
+  color: #220000;
+  
+}
+
+div.kuromame{
+  border-bottom: none;
+}
+
+#rank{
+  margin-top: 50px;
+  }
+
+#ranking{
+  color: #220000;
+  font-size: 12px;
+  font-weight: lighter;
+  margin-top: 5px;
+}
+
+ol {
+  color: #220000;
+  margin: 20px 0 50px 20px;
+  font-size: 15px;
+  padding: 10px;
+}
+
+footer{
+  border-top:2px solid#770000;
+  color: #220000;
+  padding-top: 20px;
+  font-size: 12px;
+}
